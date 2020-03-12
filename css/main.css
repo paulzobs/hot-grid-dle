@@ -27,11 +27,13 @@ body {
   width: 100%;
 }
 
-.banner {
+figure {
+  margin: 0;
   position: relative;
+  width: 100%;
 }
 
-.banner-content {
+figcaption {
   position: absolute;
   text-align: left;
   bottom: 15px;
